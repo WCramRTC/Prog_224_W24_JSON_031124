@@ -1,0 +1,157 @@
+[
+  {
+    "Name": "Ark Patrol",
+    "Albums": [
+      {
+        "Name": "Let Go",
+        "Year": 2015,
+        "Tracks": [
+          {
+            "Name": "Runaway",
+            "Length": 150,
+            "CreatedOn": "0001-01-01T00:00:00"
+          }
+        ]
+      },
+      {
+        "Name": "Infinity",
+        "Year": 2018,
+        "Tracks": [
+          {
+            "Name": "Your Eyes",
+            "Length": 180,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Never",
+            "Length": 210,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "At All",
+            "Length": 190,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Curious",
+            "Length": 200,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Let Go (feat. Veronika Redd)",
+            "Length": 220,
+            "CreatedOn": "0001-01-01T00:00:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Taylor Swift",
+    "Albums": [
+      {
+        "Name": "1989",
+        "Year": 2014,
+        "Tracks": [
+          {
+            "Name": "Shake It Off",
+            "Length": 219,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Blank Space",
+            "Length": 231,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Style",
+            "Length": 231,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Bad Blood",
+            "Length": 213,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Wildest Dreams",
+            "Length": 232,
+            "CreatedOn": "0001-01-01T00:00:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "AR Rahman",
+    "Albums": [
+      {
+        "Name": "Slumdog Millionaire",
+        "Year": 2008,
+        "Tracks": [
+          {
+            "Name": "Jai Ho",
+            "Length": 302,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "O... Saya",
+            "Length": 217,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Ringa Ringa",
+            "Length": 273,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Latika's Theme",
+            "Length": 155,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Paper Planes",
+            "Length": 218,
+            "CreatedOn": "0001-01-01T00:00:00"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "Name": "Garbage",
+    "Albums": [
+      {
+        "Name": "Version 2.0",
+        "Year": 1998,
+        "Tracks": [
+          {
+            "Name": "Push It",
+            "Length": 248,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "I Think I'm Paranoid",
+            "Length": 233,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "Special",
+            "Length": 236,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "When I Grow Up",
+            "Length": 238,
+            "CreatedOn": "0001-01-01T00:00:00"
+          },
+          {
+            "Name": "You Look So Fine",
+            "Length": 330,
+            "CreatedOn": "0001-01-01T00:00:00"
+          }
+        ]
+      }
+    ]
+  }
+]
